@@ -1,16 +1,14 @@
 # Fullstack Jokes
-Fullstack Jokes is a web application built using React.js for the frontend and Node.js (or your chosen backend) to serve dynamic jokes. The app provides a fun and interactive experience by displaying tech-related jokes.
+Fullstack Jokes is a web application built using React.js for the frontend and Express to serve dynamic jokes. The app provides a fun and interactive experience by displaying tech-related jokes.
 
 # Features
 A user-friendly, responsive frontend built with React.js
-Dynamic joke fetching from the backend
-A clean, card-style UI with hover effects
-Simple backend to handle joke retrieval (if applicable)
+ card-style UI with hover effects
+Simple backend to handle joke retrieval.
 # Tech Stack
 Frontend: React.js
-Backend: Node.js (or your preferred backend)
-Database: (Optional: MongoDB, MySQL, etc. if you store jokes dynamically)
-Deployment: Vercel (for frontend), (mention backend hosting if separate)
+Backend:Express
+
 # Installation
 Clone the Repository
 bash
